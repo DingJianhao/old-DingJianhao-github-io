@@ -1,0 +1,15 @@
+---
+title: "Optimized potential initialization for low-latency spiking neural networks"
+collection: publications
+permalink: /publication/2022-1-potential-init
+excerpt: 'This paper is about the SNN conversion.'
+date: 2022-01
+venue: 'AAAI 2022'
+paperurl: 'https://www.aaai.org/AAAI22Papers/AAAI-3681.BuT.pdf'
+citation: 'T. Bu, J. Ding, Z. Yu, and T. Huang, “Optimized potential initialization for low-latency spiking neural networks,” in AAAI, 2022'
+---
+This paper is about the SNN conversion.
+
+[Download paper here](https://www.aaai.org/AAAI22Papers/AAAI-3681.BuT.pdf)
+
+Recommended citation: T. Bu, J. Ding, Z. Yu, and T. Huang, “Optimized potential initialization for low-latency spiking neural networks,” in AAAI, 2022.
