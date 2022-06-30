@@ -14,17 +14,15 @@ Education
 * B.S. in School of Computer Science and Technology, Huazhong University of Science and Technology, 2016-2020
 * Ph.D in School of Computer Science, Peking University, 2020-2025 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* HUST 2016-2020: Undergraduate
+  * Research interest: Neural Network Optimization, Meta Learning
+  * Supervisor: Prof. LS Han,  Prof. HF Ling
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PKU 2020-2025: Ph.D
+  * Research interest: Spiking Neural Network & Application
+  * Supervisor: Prof. TJ Huang, Prof. ZF Yu
   
 Skills
 ======
